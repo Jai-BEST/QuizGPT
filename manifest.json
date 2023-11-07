@@ -1,4 +1,5 @@
 {
+  "Manifest : version 2;"
   "name": "Quiz GPT",
   "version": "1.0",
   "description": "Solves the google form quiz by chat gpt 4",
